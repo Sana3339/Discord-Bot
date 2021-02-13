@@ -17,7 +17,7 @@ def open_and_read_file(filenames):
 
 
 def make_chains(text_string):
-    """Take input text as string; return dictionary of Markov chains."""
+    """Take input text as string; return dictionary of Markov chains"""
 
     chains = {}
 
